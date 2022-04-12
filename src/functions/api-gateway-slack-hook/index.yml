@@ -1,0 +1,6 @@
+apiGatewaySlackHook:
+  handler: src/functions/api-gateway-slack-hook/index.default
+  events:
+    - http:
+        path: api-gateway-slack-hook
+        method: post
