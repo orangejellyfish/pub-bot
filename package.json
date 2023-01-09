@@ -24,7 +24,7 @@
     "node-postcodes.io": "^1.0.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.17.5",
+    "@babel/core": "^7.20.12",
     "@babel/eslint-parser": "^7.17.0",
     "@babel/preset-env": "^7.16.11",
     "babel-core": "^7.0.0-bridge.0",
